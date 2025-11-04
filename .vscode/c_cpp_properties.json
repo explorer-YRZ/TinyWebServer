@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/mysql/**",
+                "/usr/include/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerArgs": [
+                "-std=c++11",
+                "-pthread"
+            ]
+        }
+    ],
+    "version": 4
+}

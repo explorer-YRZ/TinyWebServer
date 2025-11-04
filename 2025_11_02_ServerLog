@@ -1,0 +1,319 @@
+2025-11-02 15:01:52.194079 [erro]: MySQL Error
+2025-11-02 15:35:04.755065 [info]: timer tick
+2025-11-02 15:35:07.610637 [info]: timer tick
+2025-11-02 15:35:12.617349 [info]: timer tick
+2025-11-02 15:35:17.619390 [info]: timer tick
+2025-11-02 15:35:22.629613 [info]: timer tick
+2025-11-02 15:35:27.638813 [info]: timer tick
+2025-11-02 15:35:32.645778 [info]: timer tick
+2025-11-02 15:35:37.647947 [info]: timer tick
+2025-11-02 15:35:42.656603 [info]: timer tick
+2025-11-02 15:35:47.666227 [info]: timer tick
+2025-11-02 15:35:52.680670 [info]: timer tick
+2025-11-02 15:35:54.699425 [info]: timer tick
+2025-11-02 15:35:59.703928 [info]: timer tick
+2025-11-02 15:36:04.719814 [info]: timer tick
+2025-11-02 15:36:09.738430 [info]: timer tick
+2025-11-02 15:36:14.766411 [info]: timer tick
+2025-11-02 15:36:19.769838 [info]: timer tick
+2025-11-02 15:36:22.709106 [info]: timer tick
+2025-11-02 15:36:27.719078 [info]: timer tick
+2025-11-02 15:36:32.732505 [info]: timer tick
+2025-11-02 15:36:37.739054 [info]: timer tick
+2025-11-02 15:36:42.745310 [info]: timer tick
+2025-11-02 15:36:47.752918 [info]: timer tick
+2025-11-02 15:36:52.761565 [info]: timer tick
+2025-11-02 15:36:55.490580 [info]: timer tick
+2025-11-02 15:37:00.494672 [info]: timer tick
+2025-11-02 15:37:05.495077 [info]: timer tick
+2025-11-02 15:37:10.503768 [info]: timer tick
+2025-11-02 15:37:15.515686 [info]: timer tick
+2025-11-02 15:37:20.525787 [info]: timer tick
+2025-11-02 15:37:23.431409 [info]: timer tick
+2025-11-02 15:37:28.441878 [info]: timer tick
+2025-11-02 15:37:33.451530 [info]: timer tick
+2025-11-02 15:37:38.453407 [info]: timer tick
+2025-11-02 15:37:43.458376 [info]: timer tick
+2025-11-02 15:37:48.464301 [info]: timer tick
+2025-11-02 15:37:53.474691 [info]: timer tick
+2025-11-02 15:37:56.286353 [info]: timer tick
+2025-11-02 15:38:01.291146 [info]: timer tick
+2025-11-02 15:38:06.472150 [info]: timer tick
+2025-11-02 15:38:11.475655 [info]: timer tick
+2025-11-02 15:38:11.614901 [info]: deal with the client(127.0.0.1)
+2025-11-02 15:38:11.615137 [info]: adjust timer once
+2025-11-02 15:38:11.615176 [info]: GET / HTTP/1.1
+2025-11-02 15:38:11.615371 [info]: Host: localhost:9006
+2025-11-02 15:38:11.615492 [info]: Connection: keep-alive
+2025-11-02 15:38:11.615613 [info]: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:11.616056 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:11.616733 [info]: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:11.616858 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:11.616966 [info]: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:11.617067 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:11.617159 [info]: Upgrade-Insecure-Requests: 1
+2025-11-02 15:38:11.617242 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2025-11-02 15:38:11.617323 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:11.617450 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:11.617547 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-11-02 15:38:11.617647 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-11-02 15:38:11.617730 [info]: Sec-Fetch-Site: none
+2025-11-02 15:38:11.617838 [info]: oop!unknow header: Sec-Fetch-Site: none
+2025-11-02 15:38:11.617932 [info]: Sec-Fetch-Mode: navigate
+2025-11-02 15:38:11.618012 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2025-11-02 15:38:11.618086 [info]: Sec-Fetch-User: ?1
+2025-11-02 15:38:11.618166 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2025-11-02 15:38:11.618276 [info]: Sec-Fetch-Dest: document
+2025-11-02 15:38:11.618389 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2025-11-02 15:38:11.618567 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:11.618685 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:11.618795 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:11.619044 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:11.619151 [info]: 
+2025-11-02 15:38:11.621303 [info]: request:HTTP/1.1 200 OK
+
+2025-11-02 15:38:11.621414 [info]: request:HTTP/1.1 200 OK
+Content-Length:612
+
+2025-11-02 15:38:11.621510 [info]: request:HTTP/1.1 200 OK
+Content-Length:612
+Connection:keep-alive
+
+2025-11-02 15:38:11.621587 [info]: request:HTTP/1.1 200 OK
+Content-Length:612
+Connection:keep-alive
+
+
+2025-11-02 15:38:11.622099 [info]: send data to the client(127.0.0.1)
+2025-11-02 15:38:11.622200 [info]: adjust timer once
+2025-11-02 15:38:11.733204 [info]: deal with the client(127.0.0.1)
+2025-11-02 15:38:11.733658 [info]: adjust timer once
+2025-11-02 15:38:11.733702 [info]: GET /favicon.ico HTTP/1.1
+2025-11-02 15:38:11.734173 [info]: Host: localhost:9006
+2025-11-02 15:38:11.734286 [info]: Connection: keep-alive
+2025-11-02 15:38:11.734380 [info]: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:11.734455 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:11.734554 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:11.734643 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:11.734753 [info]: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:11.734844 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:11.734937 [info]: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:11.735015 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:11.735098 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2025-11-02 15:38:11.735225 [info]: oop!unknow header: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2025-11-02 15:38:11.735364 [info]: Sec-Fetch-Site: same-origin
+2025-11-02 15:38:11.735505 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2025-11-02 15:38:11.735651 [info]: Sec-Fetch-Mode: no-cors
+2025-11-02 15:38:11.735796 [info]: oop!unknow header: Sec-Fetch-Mode: no-cors
+2025-11-02 15:38:11.735957 [info]: Sec-Fetch-Dest: image
+2025-11-02 15:38:11.736122 [info]: oop!unknow header: Sec-Fetch-Dest: image
+2025-11-02 15:38:11.736269 [info]: Referer: http://localhost:9006/
+2025-11-02 15:38:11.736415 [info]: oop!unknow header: Referer: http://localhost:9006/
+2025-11-02 15:38:11.736560 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:11.736705 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:11.736850 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:11.736996 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:11.737176 [info]: 
+2025-11-02 15:38:11.766589 [info]: request:HTTP/1.1 200 OK
+
+2025-11-02 15:38:11.766972 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2025-11-02 15:38:11.767285 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2025-11-02 15:38:11.767471 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2025-11-02 15:38:11.768300 [info]: send data to the client(127.0.0.1)
+2025-11-02 15:38:11.768440 [info]: adjust timer once
+2025-11-02 15:38:16.497804 [info]: timer tick
+2025-11-02 15:38:16.779099 [info]: deal with the client(127.0.0.1)
+2025-11-02 15:38:16.779417 [info]: adjust timer once
+2025-11-02 15:38:16.779458 [info]: POST /0 HTTP/1.1
+2025-11-02 15:38:16.779799 [info]: Host: localhost:9006
+2025-11-02 15:38:16.780068 [info]: Connection: keep-alive
+2025-11-02 15:38:16.780232 [info]: Content-Length: 0
+2025-11-02 15:38:16.780381 [info]: Cache-Control: max-age=0
+2025-11-02 15:38:16.780527 [info]: oop!unknow header: Cache-Control: max-age=0
+2025-11-02 15:38:16.780730 [info]: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:16.780980 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:16.781136 [info]: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:16.781241 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:16.781335 [info]: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:16.781425 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:16.781514 [info]: Origin: http://localhost:9006
+2025-11-02 15:38:16.781604 [info]: oop!unknow header: Origin: http://localhost:9006
+2025-11-02 15:38:16.781694 [info]: Content-Type: application/x-www-form-urlencoded
+2025-11-02 15:38:16.781786 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2025-11-02 15:38:16.781875 [info]: Upgrade-Insecure-Requests: 1
+2025-11-02 15:38:16.781967 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2025-11-02 15:38:16.782122 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:16.782366 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:16.782518 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-11-02 15:38:16.782628 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-11-02 15:38:16.782740 [info]: Sec-Fetch-Site: same-origin
+2025-11-02 15:38:16.782874 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2025-11-02 15:38:16.783047 [info]: Sec-Fetch-Mode: navigate
+2025-11-02 15:38:16.783202 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2025-11-02 15:38:16.783330 [info]: Sec-Fetch-User: ?1
+2025-11-02 15:38:16.783461 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2025-11-02 15:38:16.783619 [info]: Sec-Fetch-Dest: document
+2025-11-02 15:38:16.783754 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2025-11-02 15:38:16.783859 [info]: Referer: http://localhost:9006/
+2025-11-02 15:38:16.783962 [info]: oop!unknow header: Referer: http://localhost:9006/
+2025-11-02 15:38:16.784060 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:16.784180 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:16.784364 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:16.784523 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:16.784680 [info]: 
+2025-11-02 15:38:16.789292 [info]: request:HTTP/1.1 200 OK
+
+2025-11-02 15:38:16.789452 [info]: request:HTTP/1.1 200 OK
+Content-Length:744
+
+2025-11-02 15:38:16.789562 [info]: request:HTTP/1.1 200 OK
+Content-Length:744
+Connection:keep-alive
+
+2025-11-02 15:38:16.789662 [info]: request:HTTP/1.1 200 OK
+Content-Length:744
+Connection:keep-alive
+
+
+2025-11-02 15:38:16.790563 [info]: send data to the client(127.0.0.1)
+2025-11-02 15:38:16.790767 [info]: adjust timer once
+2025-11-02 15:38:21.537627 [info]: timer tick
+2025-11-02 15:38:24.366319 [info]: timer tick
+2025-11-02 15:38:29.385594 [info]: timer tick
+2025-11-02 15:38:30.917715 [info]: deal with the client(127.0.0.1)
+2025-11-02 15:38:30.918121 [info]: adjust timer once
+2025-11-02 15:38:30.918172 [info]: POST /3CGISQL.cgi HTTP/1.1
+2025-11-02 15:38:30.918535 [info]: Host: localhost:9006
+2025-11-02 15:38:30.918663 [info]: Connection: keep-alive
+2025-11-02 15:38:30.918802 [info]: Content-Length: 26
+2025-11-02 15:38:30.918916 [info]: Cache-Control: max-age=0
+2025-11-02 15:38:30.919019 [info]: oop!unknow header: Cache-Control: max-age=0
+2025-11-02 15:38:30.919116 [info]: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:30.919339 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:30.919713 [info]: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:30.919891 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:30.920020 [info]: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:30.920159 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:30.920284 [info]: Origin: http://localhost:9006
+2025-11-02 15:38:30.920392 [info]: oop!unknow header: Origin: http://localhost:9006
+2025-11-02 15:38:30.920481 [info]: Content-Type: application/x-www-form-urlencoded
+2025-11-02 15:38:30.920626 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2025-11-02 15:38:30.920785 [info]: Upgrade-Insecure-Requests: 1
+2025-11-02 15:38:30.920932 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2025-11-02 15:38:30.921068 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:30.921210 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:30.921334 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-11-02 15:38:30.921469 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-11-02 15:38:30.921604 [info]: Sec-Fetch-Site: same-origin
+2025-11-02 15:38:30.921726 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2025-11-02 15:38:30.921845 [info]: Sec-Fetch-Mode: navigate
+2025-11-02 15:38:30.921966 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2025-11-02 15:38:30.922087 [info]: Sec-Fetch-User: ?1
+2025-11-02 15:38:30.922196 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2025-11-02 15:38:30.922315 [info]: Sec-Fetch-Dest: document
+2025-11-02 15:38:30.922503 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2025-11-02 15:38:30.922727 [info]: Referer: http://localhost:9006/0
+2025-11-02 15:38:30.922884 [info]: oop!unknow header: Referer: http://localhost:9006/0
+2025-11-02 15:38:30.923017 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:30.923162 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:30.923271 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:30.923398 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:30.923513 [info]: 
+2025-11-02 15:38:30.923628 [info]: user=test1&password=123456
+2025-11-02 15:38:30.927724 [info]: request:HTTP/1.1 200 OK
+
+2025-11-02 15:38:30.927881 [info]: request:HTTP/1.1 200 OK
+Content-Length:808
+
+2025-11-02 15:38:30.928024 [info]: request:HTTP/1.1 200 OK
+Content-Length:808
+Connection:keep-alive
+
+2025-11-02 15:38:30.928159 [info]: request:HTTP/1.1 200 OK
+Content-Length:808
+Connection:keep-alive
+
+
+2025-11-02 15:38:30.929069 [info]: send data to the client(127.0.0.1)
+2025-11-02 15:38:30.929292 [info]: adjust timer once
+2025-11-02 15:38:34.388953 [info]: timer tick
+2025-11-02 15:38:39.418772 [info]: timer tick
+2025-11-02 15:38:40.388688 [info]: deal with the client(127.0.0.1)
+2025-11-02 15:38:40.389063 [info]: adjust timer once
+2025-11-02 15:38:40.389119 [info]: POST /3CGISQL.cgi HTTP/1.1
+2025-11-02 15:38:40.389324 [info]: Host: localhost:9006
+2025-11-02 15:38:40.389476 [info]: Connection: keep-alive
+2025-11-02 15:38:40.389677 [info]: Content-Length: 26
+2025-11-02 15:38:40.389849 [info]: Cache-Control: max-age=0
+2025-11-02 15:38:40.390050 [info]: oop!unknow header: Cache-Control: max-age=0
+2025-11-02 15:38:40.390297 [info]: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:40.390472 [info]: oop!unknow header: sec-ch-ua: "Microsoft Edge";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+2025-11-02 15:38:40.390657 [info]: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:40.390816 [info]: oop!unknow header: sec-ch-ua-mobile: ?0
+2025-11-02 15:38:40.390974 [info]: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:40.391139 [info]: oop!unknow header: sec-ch-ua-platform: "Windows"
+2025-11-02 15:38:40.391296 [info]: Origin: http://localhost:9006
+2025-11-02 15:38:40.391453 [info]: oop!unknow header: Origin: http://localhost:9006
+2025-11-02 15:38:40.391614 [info]: Content-Type: application/x-www-form-urlencoded
+2025-11-02 15:38:40.391791 [info]: oop!unknow header: Content-Type: application/x-www-form-urlencoded
+2025-11-02 15:38:40.392001 [info]: Upgrade-Insecure-Requests: 1
+2025-11-02 15:38:40.392208 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2025-11-02 15:38:40.392427 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:40.392590 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
+2025-11-02 15:38:40.392781 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-11-02 15:38:40.392931 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2025-11-02 15:38:40.393069 [info]: Sec-Fetch-Site: same-origin
+2025-11-02 15:38:40.393184 [info]: oop!unknow header: Sec-Fetch-Site: same-origin
+2025-11-02 15:38:40.393289 [info]: Sec-Fetch-Mode: navigate
+2025-11-02 15:38:40.393388 [info]: oop!unknow header: Sec-Fetch-Mode: navigate
+2025-11-02 15:38:40.393494 [info]: Sec-Fetch-User: ?1
+2025-11-02 15:38:40.393649 [info]: oop!unknow header: Sec-Fetch-User: ?1
+2025-11-02 15:38:40.393769 [info]: Sec-Fetch-Dest: document
+2025-11-02 15:38:40.393954 [info]: oop!unknow header: Sec-Fetch-Dest: document
+2025-11-02 15:38:40.394118 [info]: Referer: http://localhost:9006/3CGISQL.cgi
+2025-11-02 15:38:40.394282 [info]: oop!unknow header: Referer: http://localhost:9006/3CGISQL.cgi
+2025-11-02 15:38:40.394436 [info]: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:40.394547 [info]: oop!unknow header: Accept-Encoding: gzip, deflate, br, zstd
+2025-11-02 15:38:40.394691 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:40.394810 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2025-11-02 15:38:40.394908 [info]: 
+2025-11-02 15:38:40.395001 [info]: user=test2&password=123456
+2025-11-02 15:38:40.402992 [info]: request:HTTP/1.1 200 OK
+
+2025-11-02 15:38:40.403261 [info]: request:HTTP/1.1 200 OK
+Content-Length:746
+
+2025-11-02 15:38:40.403437 [info]: request:HTTP/1.1 200 OK
+Content-Length:746
+Connection:keep-alive
+
+2025-11-02 15:38:40.403604 [info]: request:HTTP/1.1 200 OK
+Content-Length:746
+Connection:keep-alive
+
+
+2025-11-02 15:38:40.404661 [info]: send data to the client(127.0.0.1)
+2025-11-02 15:38:40.404926 [info]: adjust timer once
+2025-11-02 15:38:44.424315 [info]: timer tick
+2025-11-02 15:38:49.458956 [info]: timer tick
+2025-11-02 15:38:52.309115 [info]: timer tick
+2025-11-02 15:38:57.322749 [info]: timer tick
+2025-11-02 15:39:02.338400 [info]: timer tick
+2025-11-02 15:39:07.341289 [info]: timer tick
+2025-11-02 15:39:12.356065 [info]: timer tick
+2025-11-02 15:39:17.376634 [info]: timer tick
+2025-11-02 15:39:22.389705 [info]: timer tick
+2025-11-02 15:39:25.229287 [info]: timer tick
+2025-11-02 15:39:30.273043 [info]: timer tick
+2025-11-02 15:39:35.308221 [info]: timer tick
+2025-11-02 15:39:40.341078 [info]: timer tick
+2025-11-02 15:39:45.357525 [info]: timer tick
